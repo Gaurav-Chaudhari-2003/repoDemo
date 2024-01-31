@@ -1,4 +1,4 @@
 # repoDemo
 This is my first repository on GitHub.
-<br>
-~Author: Gaurav Chaudhari.
+
+~Author: <h1>Gaurav Chaudhari.</h1>
